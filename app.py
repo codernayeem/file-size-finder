@@ -1,7 +1,7 @@
 import os
 
-pth = "C:"              # directory
-size_in_bytes = 100025  # size
+pth = input("Type the directory where you want to search : ")
+size_in_bytes = int(input("Type the size of the file in bytes : "))
 
 print('Searching\n\n')
 c = 0
