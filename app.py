@@ -25,4 +25,5 @@ except Exception as e:
 	print(e)
 
 print('Done')
+print('Found ', c, ' files from ', cc, ' files')
 input()
